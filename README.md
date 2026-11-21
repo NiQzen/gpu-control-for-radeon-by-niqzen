@@ -15,14 +15,22 @@ Shows one GPU reading on a key or on a dial (Stream Deck +):
 **Key:** press to show the next reading (or set it to do nothing). **Dial:** rotate or press to switch readings.
 The ring turns orange above 85 °C. Readings your GPU doesn't report are marked *not available* and skipped.
 
+![All GPU readings](images/metrics.png)
+
+![GPU readings on the Stream Deck + dials](images/dials.png)
+
 ## FPS
 Shows the current frame rate of the running game with a graph of the last 30 seconds. Press the key to toggle the AMD metrics overlay. The key shows *no game* when no game is running.
+
+![The FPS key](images/fps.png)
 
 ## Instant Replay and Save Clip
 - **Instant Replay:** turns AMD Instant Replay on or off. If Record & Stream is turned off in AMD Software, the key shows *DISABLED*.
 - **Save Clip:** saves the last moments recorded by Instant Replay. The key confirms with *Saved*.
 
 Both keys press your AMD Software hotkeys, so clips are saved where AMD Software saves them.
+
+![Instant Replay and Save Clip keys](images/replay.png)
 
 ## Settings
 - **Show** (GPU Status): the reading to show
